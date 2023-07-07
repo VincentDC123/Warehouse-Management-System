@@ -1,4 +1,5 @@
-# Warehouse-Management-System
+# * This has been disconnected from the AWS so this is not currently working. *
+# Warehouse Management System
 WMS is an inventory management system for businesses that keeps track of stock and selling goods.  
 The application can also be used by customers to order items.
   - Programmed in Java using Android Studio.
